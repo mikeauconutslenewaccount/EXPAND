@@ -1,0 +1,12 @@
+@call/xpand)
+xpand/willdo/@call/spoon)
+and
+spoon/willdo/pick_var)
+vars/L/L2/L3/G/G2)
+L_VARS/willdo/@call/drop)
+G_VARS/willdo/@call/move)
+drop/willdo/reset)
+move/willdo/getvar)
+@closeappwhen/enter_is_pressed(inthatcaseif:does_not_close)
+@recall(closeappwhen/enter_is_pressed()
+sphinxcodestop_appclose
